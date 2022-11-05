@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou @PedroArthurDev
+-  sou um esntusiasta da tecnologia, principalmente voltada para backend
+-  Atualmente busco conhecimento focado em linguagem de programações voltadas a área de backend, mas no tempo livre costumo brincar com outras tecnologia
+-  Aqui é possível acessar projetos pessoais onde demonstro meus conhecimentos
+-  Bem vindos ao meu mundo
+- 📫 contato: PedroArthurMarquesDev@hotmail.com
